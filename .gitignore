@@ -3,4 +3,6 @@ site/
 output/
 cache/
 
+*.secret
+
 .env
